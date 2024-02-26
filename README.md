@@ -1,2 +1,2 @@
-# Simon-Says-
-It's a game made using HTML , CSS and JS
+# Amazon Clone
+It a project in which Amazon clone is made using HTML and CSS
